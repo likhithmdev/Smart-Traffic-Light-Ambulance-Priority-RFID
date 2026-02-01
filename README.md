@@ -30,7 +30,3 @@ This system detects authorized ambulances using RFID and dynamically switches th
 - Real-time traffic signal switching
 - Scalable smart city design
 
-## 🖼️ Block Diagram
-![Block Diagram](images/Block_Diagram.png)
-
-## 📂 Project Structure
